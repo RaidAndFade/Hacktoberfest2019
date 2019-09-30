@@ -1,0 +1,5 @@
+# By foosballa91 - https://github.com/foosballa91
+
+while (true){  
+   println("yes")  
+}
