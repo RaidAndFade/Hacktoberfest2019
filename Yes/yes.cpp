@@ -1,10 +1,10 @@
 // By GiorgiBeriashvili - https://github.com/GiorgiBeriashvili
 
-#include <stdio.h>
+#include <iostream>
 
 int main() {
 	while (1) {
-		printf("yes\n");
+		std::cout << "yes" << std::endl;
 	}
 
 	return 0;
