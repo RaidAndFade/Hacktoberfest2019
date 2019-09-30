@@ -19,6 +19,7 @@ _(Do not modify this list unless you are a maintainer)_
 _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
+- [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
 
 # Contributors
 
