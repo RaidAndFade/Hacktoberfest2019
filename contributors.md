@@ -19,9 +19,11 @@ _(Do not modify this list unless you are a maintainer)_
 _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
+- [Baedyl](https://github.com/baedyl)
 
 # Contributors
 
 _(People who have not participated in challenges but want to be a part of the project!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
+- [Baedyl](https://github.com/baedyl)
