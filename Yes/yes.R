@@ -1,0 +1,3 @@
+for (TRUE) {
+	print("Yes")
+}
