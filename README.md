@@ -1,11 +1,13 @@
-# Hacktoberfest2019 ~ Week 1 Challenge
+# OctoberChallenges2019 ~ Week 1 Challenge
 
-*This is part of a series of weekly projects that will be in this repository over the span of hacktoberfest.*
+***PULL REQUESTS TO THIS REPOSITORY WILL NOT COUNT TOWARDS YOUR 4 HACKTOBER REQUESTS, ACCORDING TO #65***
 
-*this is satire, it's meant to be cute and to see what potential PRs have (both during hacktoberfest and otherwise), as well as improve my management skills & my auto-auditing program and its submodules.*
+*This is part of a series of weekly projects that will be in this repository over the span of october.*
+
+*this is satire, it's meant to be cute and to see what potential PRs have (both during october and otherwise), as well as improve my management skills & my auto-auditing program and its submodules.*
 
 
-Make sure to add yourself to the [contributors file](https://github.com/RaidAndFade/Hacktoberfest2019/blob/master/contributors.md).
+Make sure to add yourself to the [contributors file](https://github.com/RaidAndFade/OctoberChallenges2019/blob/master/contributors.md).
 
 ## Just Say Yes...
 
