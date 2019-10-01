@@ -29,3 +29,4 @@ _(People who have participated in the challenges!)_
 - [ajaystark](https://github.com/ajaystark)
 - [rogerthat](https://github.com/rogerthat39)
 - [TheOrangePuff](https:github.com/TheOrangePuff)
+- [RisavChd24](https://github.com/RisavChd24)
