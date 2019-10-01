@@ -24,3 +24,4 @@ _(People who have participated in the challenges!)_
 - [cedrvanh](https://github.com/cedrvanh)
 - [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
 - [chriswaustin](https://github.com/chriswaustin)
+- [csleong98](https://github.com/csleong98)
