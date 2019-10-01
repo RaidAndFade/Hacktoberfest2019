@@ -26,6 +26,7 @@ _(People who have participated in the challenges!)_
 - [GiorgiBeriashvili](https://github.com/GiorgiBeriashvili)
 - [chriswaustin](https://github.com/chriswaustin)
 - [csleong98](https://github.com/csleong98)
+- [dovy](https://github.com/dovy)
 - [ajaystark](https://github.com/ajaystark)
 - [rogerthat](https://github.com/rogerthat39)
 - [TheOrangePuff](https:github.com/TheOrangePuff)
