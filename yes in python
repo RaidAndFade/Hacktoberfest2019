@@ -1,0 +1,2 @@
+while True:     #That loop runs infinitely print Yes to stop
+	print("YES") #loop press ctrl + c
