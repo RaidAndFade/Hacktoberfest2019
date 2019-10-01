@@ -30,3 +30,4 @@ _(People who have participated in the challenges!)_
 - [rogerthat](https://github.com/rogerthat39)
 - [TheOrangePuff](https:github.com/TheOrangePuff)
 - [Mamat](https://github.com/mamat90)
+- [Deepti Aggarwal](https://github.com/deeptiagg16)
