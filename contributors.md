@@ -26,3 +26,4 @@ _(People who have participated in the challenges!)_
 - [chriswaustin](https://github.com/chriswaustin)
 - [csleong98](https://github.com/csleong98)
 - [ajaystark](https://github.com/ajaystark)
+- [higorsnt](https://github.com/HigorSnt)
