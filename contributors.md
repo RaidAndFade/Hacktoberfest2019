@@ -20,6 +20,7 @@ _(People who have participated in the challenges!)_
 
 - [RaidAndFade](https://github.com/raidandfade)
 - [SoulSpark](https://github.com/soulspark666)
+- [pranayag](https://github.com/pranayag)
 - [sroehrl](https://github.com/sroehrl)
 - [y21](https://github.com/y21)
 - [cedrvanh](https://github.com/cedrvanh)
