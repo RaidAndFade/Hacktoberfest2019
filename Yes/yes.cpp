@@ -1,10 +1,11 @@
 // By GiorgiBeriashvili - https://github.com/GiorgiBeriashvili
 
 #include <iostream>
+using namespace std;
 
 int main() {
 	while (1) {
-		std::cout << "yes" << std::endl;
+		if()
 	}
 
 	return 0;

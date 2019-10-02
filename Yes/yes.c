@@ -2,6 +2,6 @@
 
 int main() {
     while (1) {
-        fprintf(stdout, "yes\n");
+        if(printf("YES\n")){}
     }
 }
