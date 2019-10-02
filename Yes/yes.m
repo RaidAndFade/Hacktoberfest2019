@@ -4,3 +4,4 @@ while (true)
     printf("Yes");
     endwhile;
     
+#Contribution for HacktoberFest
