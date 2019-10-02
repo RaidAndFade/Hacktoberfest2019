@@ -31,3 +31,5 @@ _(People who have participated in the challenges!)_
 - [TheOrangePuff](https:github.com/TheOrangePuff)
 - [Mamat](https://github.com/mamat90)
 - [Sriram](https://github.com/sriramnjr7)
+- [NCPlayz](https://github.com/NCPlayz)
+
