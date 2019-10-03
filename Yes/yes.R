@@ -1,3 +1,3 @@
-for (TRUE) {
+while(TRUE) {
 	print("Yes")
 }
