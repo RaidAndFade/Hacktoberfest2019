@@ -1,13 +1,12 @@
 // By Jijin - https://github.com/PJijin
+// Modified by @m-messiah
 
 package main
 
-import (  
-    "fmt"
-)
+import "fmt"
 
-func main() {  
-    for true {
-         fmt.Printf("yes \n")
+func main() {
+    for {
+        fmt.Println("yes")
     }
 }
