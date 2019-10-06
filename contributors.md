@@ -47,3 +47,4 @@ _(People who have participated in the challenges!)_
 - [its-kos](https://github.com/its-kos)
 - [raitisv](https://github.com/raitisv)
 - [Erfaniaa](https://github.com/Erfaniaa)
+- [PrathamGupta](https://github.com/PrathamGupta)
