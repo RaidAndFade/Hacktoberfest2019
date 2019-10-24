@@ -38,6 +38,7 @@ _(People who have participated in the challenges!)_
 - [uabua](https://github.com/uabua)
 - [zjaved101](https://github.com/zjaved101)
 - [MadhavPruthi](https://github.com/MadhavPruthi)
+- [Pedrohugovm](https://github.com/Pedrohugovm)
 - [enabet](https://github.com/enabet)
 - [abhhii](https://github.com/abhhii)
 - [Mamat](https://github.com/mamat90)
